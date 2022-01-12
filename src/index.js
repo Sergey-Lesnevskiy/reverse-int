@@ -8,4 +8,3 @@ module.exports = function reverse (n) {
    
     return result;
 }
-console.log(reverse(291))
